@@ -1,14 +1,14 @@
-# Austria
+#  Football Market (Match Quotes) Data
+
 
 Free open public domain football (soccer) data (football.db) addon for market quotes (odds, etc.)
 
 
-## License
+[**austria**](austria) -   Austrian Bundesliga, Cup, etc.
 
-The `football.db` schema, data and scripts are dedicated to the public domain.
-Use it as you please with no restrictions whatsoever.
+[**worldcup**](worldcup)  -  World Cup (Brazil 2014), World Cup Quali, Confederations Cup (Brazil 2013) etc.
 
-## Questions? Comments?
 
-Send them along to the [Open Sports Database & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
-Thanks!
+
+
+
